@@ -61,30 +61,4 @@ public class MathsFunc{
 		System.out.println("Is " + x+ " prime = " + prime);
 		return prime;
 	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
