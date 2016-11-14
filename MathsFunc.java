@@ -1,3 +1,9 @@
+/*
+* Author Fergus Fitzpatrick
+*
+* Date 14-11-16
+*/
+
 public class MathsFunc{
 	public static int add(int x, int y){
 		int result;

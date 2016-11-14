@@ -1,3 +1,8 @@
+/*
+* Author Fergus Fitzpatrick
+*
+* Date 14-11-16
+*/
 import java.util.*;
 
 public class Maths{
