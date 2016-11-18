@@ -41,7 +41,7 @@ public class MathsFunc{
 	}
 
 	public static int factorial(int x){
-		int result =1;
+		int result = 1;
 		if ( x == 0 ){
 			System.out.println("0! = 1");
 			return x;
